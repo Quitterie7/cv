@@ -1,0 +1,111 @@
+  body {
+  text-align: left;
+  background: rgb(250,250,250);
+  color:black;
+  font-size: 20px;
+  font-family: Helvetica;
+
+}
+h1{
+  font-family: Courier;
+  color: rgb(56,63,81);
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Courier;
+  color: rgb(71,73,115);
+  font-weight: lighter;
+  font-size: 50px;
+}
+h3 {
+  font-family: Courier;
+  color: rgb(228,154,173);
+  font-weight: lighter;
+  font-size: 30px;
+}
+a {
+  color: pink;
+}
+a:hover {
+  text-decoration: none;
+  color: rgb(35,25,66);
+}
+#banner{
+  text-align: center;
+  background: rgb(247,207,209);
+  background-size: cover;
+  background-position: center;
+  padding: 20px 0;
+  color: white;
+  height: 67vh 
+}
+#banner h1 {
+  font-size: 50px;
+}
+#banner p {
+  margin-bottom: 20px;
+  color: rgb(245,245,245);
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+.avatar {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.btn-medium {
+  color: #4B88A2;
+  border: 2px solid #4B88A2;
+  padding: 10px 15px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 0.6;
+  margin: 15px; 
+}
+
+.btn-medium:hover {
+  opacity: 1;
+  text-decoration: bold;
+  background-color: #4B88A2;
+  color: white;
+}
+
+#footer {
+  padding: 20px;
+  background-color: rgb(247,207,209);
+  color: lightgrey;
+  height: 10vh; 
+}
+
+#footer p {
+  color: rgb(56,63,81);
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 4px;
+  text-align: left;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 16px;
+  margin: 16px 0px;
+}
+
+.card-white h2 {
+  text-align: center;
+  font-family: Courier;
+  color: rgb(71,73,115);
+  font-weight: lighter;
+  font-size: 50px
+}
+.card-category {
+  color: #ACCBE1
+}
+
+.logo{
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  margin-top: 17px;
+}
